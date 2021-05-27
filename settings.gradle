@@ -1,0 +1,4 @@
+
+include(":app")
+rootProject.name = "GradleKotlinDslPlayground"
+rootProject.buildFileName = "build.gradle.kts"
